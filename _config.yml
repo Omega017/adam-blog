@@ -2,7 +2,7 @@
 title: My personal blog - Adam Neilson
 timezone: UTC
 collections:
-  _pages:
+  pages:
     title: Pages
     output: true
   posts:
