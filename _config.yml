@@ -2,9 +2,6 @@
 title: My personal blog - Adam Neilson
 timezone: UTC
 collections:
-  pap:
-    title: Pap
-    output: true
   posts:
     title: Posts
     output: true
