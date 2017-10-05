@@ -16,7 +16,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 permalink: ":title/"
 baseurl: "/ggp.io"
-url: ''
+url: 
 author: Adam Neilson
 author-pic: adam-face.jpg
 about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and
